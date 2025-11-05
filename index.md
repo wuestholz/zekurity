@@ -14,7 +14,7 @@ subtitle: "Fuzzing for Mission-Critical Zero-Knowledge Infrastructure"
 
 ## About
 
-**Established in 2023**, the ZeKurity Research Center is a **joint initiative** between [**TU Wien**](https://informatics.tuwien.ac.at) and [**Diligence Security**](https://consensys.net/diligence) to address one of the biggest hurdles for widespread adoption of ZK applications: **critical bugs that pose existential financial and reputational risk for developers and users**.
+**Established in 2023**, the ZeKurity Research Center is a **joint initiative** between [**Diligence Security**](https://consensys.net/diligence) and [**TU Wien**](https://informatics.tuwien.ac.at) to address one of the biggest hurdles for widespread adoption of ZK applications: **critical bugs that pose existential financial and reputational risk for developers and users**.
 
 Our **mission** is to develop effective techniques for detecting such critical bugs in complex ZK components that are **challenging to detect using traditional security processes**, such as manual audits and bug-bounty programs, or even more experimental and expensive processes, such as formal verification.
 
