@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ZeKurity Research Center"
-subtitle: "Fuzzing Solutions for Mission-Critical Zero-Knowledge Infrastructure"
+subtitle: "Fuzzing for Mission-Critical Zero-Knowledge Infrastructure"
 ---
 
 🚨 **Problem**: Industry adoption of Zero-knowledge (ZK) technology is growing, but **latent soundness and completeness bugs** pose an existential **financial and reputational risk** for widespread success and adoption.
