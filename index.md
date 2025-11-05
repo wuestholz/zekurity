@@ -14,7 +14,7 @@ subtitle: "Fuzzing Solutions for Mission-Critical Zero-Knowledge Infrastructure"
 
 ## About
 
-**Established in 2023**, the ZeKurity Research Center is a **joint initiative** between [**TU Vienna**](https://informatics.tuwien.ac.at) and [**Diligence Security**](https://consensys.net/diligence) to address one of the biggest hurdles for widespread adoption of ZK applications: **critical bugs that pose existential financial and reputational risk for developers and users**.
+**Established in 2023**, the ZeKurity Research Center is a **joint initiative** between [**TU Wien**](https://informatics.tuwien.ac.at) and [**Diligence Security**](https://consensys.net/diligence) to address one of the biggest hurdles for widespread adoption of ZK applications: **critical bugs that pose existential financial and reputational risk for developers and users**.
 
 Our **mission** is to develop effective techniques for detecting such critical bugs in complex ZK components that are **challenging to detect using traditional security processes**, such as manual audits and bug-bounty programs, or even more experimental and expensive processes, such as formal verification.
 
@@ -22,7 +22,7 @@ We have pioneered how to use fuzzing, a well-established security technique, to 
 
 ## Team
 
-- **Maria Christakis**: [Professor @ TU Vienna](https://mariachris.github.io)
-- **Christoph Hochrainer**: [Researcher @ TU Vienna](https://informatics.tuwien.ac.at/people/christoph-hochrainer)
-- **Sebastian Watzinger**: [Researcher @ TU Vienna](https://informatics.tuwien.ac.at/people/sebastian-watzinger)
+- **Maria Christakis**: [Professor @ TU Wien](https://mariachris.github.io)
+- **Christoph Hochrainer**: [Researcher @ TU Wien](https://informatics.tuwien.ac.at/people/christoph-hochrainer)
+- **Sebastian Watzinger**: [Researcher @ TU Wien](https://informatics.tuwien.ac.at/people/sebastian-watzinger)
 - **Valentin Wüstholz**: [Principal Researcher and Co-founder @ Diligence Security](https://www.wuestholz.com)
