@@ -6,9 +6,9 @@ subtitle: "Fuzzing Solutions for Mission-Critical Zero-Knowledge Infrastructure"
 
 🚨 **Problem**: Industry adoption of Zero-knowledge (ZK) technology is growing, but **latent soundness and completeness bugs** pose an existential **financial and reputational risk** for widespread success and adoption.
 
-🧩 **Challenge**: **Preventing such critical bugs** is one of the biggest challenges, especially due to the **inherent complexity** in many ZK components and the sophisticated optimizations that are necessary for many advanced ZK applications (ZK DSL, zkVMs, etc.).
+🧩 **Challenge**: **Preventing such critical bugs** is one of the biggest challenges, especially due to the **inherent complexity** in many ZK components and the **sophisticated optimizations** that are necessary for many advanced ZK applications (ZK DSL, zkVMs, etc.).
 
-🔨 **Solution**: Our pioneering fuzzers specifically target this class of critical bugs and have already demonstrated their effectiveness by **finding more than 25 bugs** in widely-used systems, such as **Circom, Corset, Jolt, Gnark, Nexus, Noir, and RISC Zero**.
+🔨 **Solution**: Our **pioneering fuzzers** specifically target this class of critical bugs and have already demonstrated their effectiveness by **finding more than 25 bugs** in widely-used systems, such as **Circom, Corset, Jolt, Gnark, Nexus, Noir, and RISC Zero**.
 
 📢 Reach out to discuss how we can keep your mission-critical ZK infrastructure safe!
 
