@@ -10,7 +10,7 @@ subtitle: "Designing Revolutionary Fuzzers for Mission-Critical Zero-Knowledge I
 
 🔨 **Solution**: Our **pioneering fuzzers** specifically target this class of critical bugs and have already demonstrated their effectiveness by **finding more than 25 bugs** in widely-used systems, such as **Circom, Corset, Jolt, Gnark, Nexus, Noir, and RISC Zero**.
 
-📢 Reach out to discuss how we can keep your mission-critical ZK infrastructure safe!
+📢 **Reach out** to discuss how we can **keep your mission-critical ZK infrastructure safe**!
 
 ## About
 
