@@ -9,8 +9,8 @@ a:link {
   text-decoration: none;
 }
 
-.empty-rule {
-  /* This is an empty CSS rule */
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
 }
 
 /*# sourceMappingURL=main.css.map */
