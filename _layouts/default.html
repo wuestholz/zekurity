@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ site.lang | default: "en-US" }}" xml:lang="{{ site.lang | default: "en-US" }}">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ site.lang | default: "en-US" }}"
+  xml:lang="{{ site.lang | default: "en-US" }}">
 
 <head>
   <title>{{ page.title }} - {{ site.title }}</title>
@@ -26,10 +27,10 @@
       <h5 class="subtitle">{{ page.subtitle }}</h5>
       {% endif %}
     </div>
-      <div class="container text-start pt-5">
-        {{ content }}
-      </div>
+    <div class="container pt-5">
+      {{ content }}
     </div>
+  </div>
   </div>
 </body>
 

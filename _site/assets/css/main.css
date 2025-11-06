@@ -13,4 +13,9 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 
+h2 {
+  padding-top: 1.5rem;
+  padding-bottom: 0.5rem;
+}
+
 /*# sourceMappingURL=main.css.map */
